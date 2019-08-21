@@ -1,0 +1,110 @@
+W1D1 
+[('Heng Hwee Yee', 'James Ng'), ('Lim Sing Tat', 'Javed Karim'), ('Edward Bingei', 'Ken Cheah Su Yang'), ('Shi He Ping', 'Nikhil Mangla'), ('Teo Yong Song', 'dummy'), ('Fan Yeng Loon', 'Regina Cheong')] 
+W1D2 
+[('Heng Hwee Yee', 'Javed Karim'), ('James Ng', 'Ken Cheah Su Yang'), ('Lim Sing Tat', 'Nikhil Mangla'), ('Edward Bingei', 'dummy'), ('Shi He Ping', 'Regina Cheong'), ('Teo Yong Song', 'Fan Yeng Loon')] 
+W1D3 
+[('Heng Hwee Yee', 'Ken Cheah Su Yang'), ('Javed Karim', 'Nikhil Mangla'), ('James Ng', 'dummy'), ('Lim Sing Tat', 'Regina Cheong'), ('Edward Bingei', 'Fan Yeng Loon'), ('Shi He Ping', 'Teo Yong Song')] 
+W1D4 
+[('Heng Hwee Yee', 'Nikhil Mangla'), ('Ken Cheah Su Yang', 'dummy'), ('Javed Karim', 'Regina Cheong'), ('James Ng', 'Fan Yeng Loon'), ('Lim Sing Tat', 'Teo Yong Song'), ('Edward Bingei', 'Shi He Ping')] 
+W1D5 
+[('Heng Hwee Yee', 'dummy'), ('Nikhil Mangla', 'Regina Cheong'), ('Ken Cheah Su Yang', 'Fan Yeng Loon'), ('Javed Karim', 'Teo Yong Song'), ('James Ng', 'Shi He Ping'), ('Lim Sing Tat', 'Edward Bingei')] 
+W2D1 
+[('Heng Hwee Yee', 'Regina Cheong'), ('dummy', 'Fan Yeng Loon'), ('Nikhil Mangla', 'Teo Yong Song'), ('Ken Cheah Su Yang', 'Shi He Ping'), ('Javed Karim', 'Edward Bingei'), ('James Ng', 'Lim Sing Tat')] 
+W2D2 
+[('Heng Hwee Yee', 'Fan Yeng Loon'), ('Regina Cheong', 'Teo Yong Song'), ('dummy', 'Shi He Ping'), ('Nikhil Mangla', 'Edward Bingei'), ('Ken Cheah Su Yang', 'Lim Sing Tat'), ('Javed Karim', 'James Ng')] 
+W2D3 
+[('Heng Hwee Yee', 'Teo Yong Song'), ('Fan Yeng Loon', 'Shi He Ping'), ('Regina Cheong', 'Edward Bingei'), ('dummy', 'Lim Sing Tat'), ('Nikhil Mangla', 'James Ng'), ('Ken Cheah Su Yang', 'Javed Karim')] 
+W2D4 
+[('Heng Hwee Yee', 'Shi He Ping'), ('Teo Yong Song', 'Edward Bingei'), ('Fan Yeng Loon', 'Lim Sing Tat'), ('Regina Cheong', 'James Ng'), ('dummy', 'Javed Karim'), ('Nikhil Mangla', 'Ken Cheah Su Yang')] 
+W2D5 
+[('Heng Hwee Yee', 'Edward Bingei'), ('Shi He Ping', 'Lim Sing Tat'), ('Teo Yong Song', 'James Ng'), ('Fan Yeng Loon', 'Javed Karim'), ('Regina Cheong', 'Ken Cheah Su Yang'), ('dummy', 'Nikhil Mangla')] 
+W3D3 
+[('Heng Hwee Yee', 'Lim Sing Tat'), ('Edward Bingei', 'James Ng'), ('Shi He Ping', 'Javed Karim'), ('Teo Yong Song', 'Ken Cheah Su Yang'), ('Fan Yeng Loon', 'Nikhil Mangla'), ('Regina Cheong', 'dummy')]
+W3D4 
+[('Heng Hwee Yee', 'James Ng'), ('Lim Sing Tat', 'Javed Karim'), ('Edward Bingei', 'Ken Cheah Su Yang'), ('Shi He Ping', 'Nikhil Mangla'), ('Teo Yong Song', 'dummy'), ('Fan Yeng Loon', 'Regina Cheong')] 
+W3D5 
+[('Heng Hwee Yee', 'Javed Karim'), ('James Ng', 'Ken Cheah Su Yang'), ('Lim Sing Tat', 'Nikhil Mangla'), ('Edward Bingei', 'dummy'), ('Shi He Ping', 'Regina Cheong'), ('Teo Yong Song', 'Fan Yeng Loon')] 
+W4D2 
+[('Heng Hwee Yee', 'Ken Cheah Su Yang'), ('Javed Karim', 'Nikhil Mangla'), ('James Ng', 'dummy'), ('Lim Sing Tat', 'Regina Cheong'), ('Edward Bingei', 'Fan Yeng Loon'), ('Shi He Ping', 'Teo Yong Song')] 
+W4D3 
+[('Heng Hwee Yee', 'Nikhil Mangla'), ('Ken Cheah Su Yang', 'dummy'), ('Javed Karim', 'Regina Cheong'), ('James Ng', 'Fan Yeng Loon'), ('Lim Sing Tat', 'Teo Yong Song'), ('Edward Bingei', 'Shi He Ping')] 
+W4D4 
+[('Heng Hwee Yee', 'dummy'), ('Nikhil Mangla', 'Regina Cheong'), ('Ken Cheah Su Yang', 'Fan Yeng Loon'), ('Javed Karim', 'Teo Yong Song'), ('James Ng', 'Shi He Ping'), ('Lim Sing Tat', 'Edward Bingei')] 
+W4D5 
+[('Heng Hwee Yee', 'Regina Cheong'), ('dummy', 'Fan Yeng Loon'), ('Nikhil Mangla', 'Teo Yong Song'), ('Ken Cheah Su Yang', 'Shi He Ping'), ('Javed Karim', 'Edward Bingei'), ('James Ng', 'Lim Sing Tat')] 
+W5D1 
+[('Heng Hwee Yee', 'Fan Yeng Loon'), ('Regina Cheong', 'Teo Yong Song'), ('dummy', 'Shi He Ping'), ('Nikhil Mangla', 'Edward Bingei'), ('Ken Cheah Su Yang', 'Lim Sing Tat'), ('Javed Karim', 'James Ng')] 
+W5D2 
+[('Heng Hwee Yee', 'Teo Yong Song'), ('Fan Yeng Loon', 'Shi He Ping'), ('Regina Cheong', 'Edward Bingei'), ('dummy', 'Lim Sing Tat'), ('Nikhil Mangla', 'James Ng'), ('Ken Cheah Su Yang', 'Javed Karim')] 
+W5D3 
+[('Heng Hwee Yee', 'Shi He Ping'), ('Teo Yong Song', 'Edward Bingei'), ('Fan Yeng Loon', 'Lim Sing Tat'), ('Regina Cheong', 'James Ng'), ('dummy', 'Javed Karim'), ('Nikhil Mangla', 'Ken Cheah Su Yang')] 
+W5D4 
+[('Heng Hwee Yee', 'Edward Bingei'), ('Shi He Ping', 'Lim Sing Tat'), ('Teo Yong Song', 'James Ng'), ('Fan Yeng Loon', 'Javed Karim'), ('Regina Cheong', 'Ken Cheah Su Yang'), ('dummy', 'Nikhil Mangla')] 
+W6D2 
+[('Heng Hwee Yee', 'Lim Sing Tat'), ('Edward Bingei', 'James Ng'), ('Shi He Ping', 'Javed Karim'), ('Teo Yong Song', 'Ken Cheah Su Yang'), ('Fan Yeng Loon', 'Nikhil Mangla'), ('Regina Cheong', 'dummy')]
+W6D3 
+[('Heng Hwee Yee', 'James Ng'), ('Lim Sing Tat', 'Javed Karim'), ('Edward Bingei', 'Ken Cheah Su Yang'), ('Shi He Ping', 'Nikhil Mangla'), ('Teo Yong Song', 'dummy'), ('Fan Yeng Loon', 'Regina Cheong')] 
+W6D4 
+[('Heng Hwee Yee', 'Javed Karim'), ('James Ng', 'Ken Cheah Su Yang'), ('Lim Sing Tat', 'Nikhil Mangla'), ('Edward Bingei', 'dummy'), ('Shi He Ping', 'Regina Cheong'), ('Teo Yong Song', 'Fan Yeng Loon')] 
+W6D5 
+[('Heng Hwee Yee', 'Ken Cheah Su Yang'), ('Javed Karim', 'Nikhil Mangla'), ('James Ng', 'dummy'), ('Lim Sing Tat', 'Regina Cheong'), ('Edward Bingei', 'Fan Yeng Loon'), ('Shi He Ping', 'Teo Yong Song')] 
+W7D1 
+[('Heng Hwee Yee', 'Nikhil Mangla'), ('Ken Cheah Su Yang', 'dummy'), ('Javed Karim', 'Regina Cheong'), ('James Ng', 'Fan Yeng Loon'), ('Lim Sing Tat', 'Teo Yong Song'), ('Edward Bingei', 'Shi He Ping')] 
+W7D2 
+[('Heng Hwee Yee', 'dummy'), ('Nikhil Mangla', 'Regina Cheong'), ('Ken Cheah Su Yang', 'Fan Yeng Loon'), ('Javed Karim', 'Teo Yong Song'), ('James Ng', 'Shi He Ping'), ('Lim Sing Tat', 'Edward Bingei')] 
+W7D3 
+[('Heng Hwee Yee', 'Regina Cheong'), ('dummy', 'Fan Yeng Loon'), ('Nikhil Mangla', 'Teo Yong Song'), ('Ken Cheah Su Yang', 'Shi He Ping'), ('Javed Karim', 'Edward Bingei'), ('James Ng', 'Lim Sing Tat')] 
+W7D4 
+[('Heng Hwee Yee', 'Fan Yeng Loon'), ('Regina Cheong', 'Teo Yong Song'), ('dummy', 'Shi He Ping'), ('Nikhil Mangla', 'Edward Bingei'), ('Ken Cheah Su Yang', 'Lim Sing Tat'), ('Javed Karim', 'James Ng')] 
+W7D5 
+[('Heng Hwee Yee', 'Teo Yong Song'), ('Fan Yeng Loon', 'Shi He Ping'), ('Regina Cheong', 'Edward Bingei'), ('dummy', 'Lim Sing Tat'), ('Nikhil Mangla', 'James Ng'), ('Ken Cheah Su Yang', 'Javed Karim')] 
+W8D1 
+[('Heng Hwee Yee', 'Shi He Ping'), ('Teo Yong Song', 'Edward Bingei'), ('Fan Yeng Loon', 'Lim Sing Tat'), ('Regina Cheong', 'James Ng'), ('dummy', 'Javed Karim'), ('Nikhil Mangla', 'Ken Cheah Su Yang')] 
+W8D2 
+[('Heng Hwee Yee', 'Edward Bingei'), ('Shi He Ping', 'Lim Sing Tat'), ('Teo Yong Song', 'James Ng'), ('Fan Yeng Loon', 'Javed Karim'), ('Regina Cheong', 'Ken Cheah Su Yang'), ('dummy', 'Nikhil Mangla')] 
+W8D3 
+[('Heng Hwee Yee', 'Lim Sing Tat'), ('Edward Bingei', 'James Ng'), ('Shi He Ping', 'Javed Karim'), ('Teo Yong Song', 'Ken Cheah Su Yang'), ('Fan Yeng Loon', 'Nikhil Mangla'), ('Regina Cheong', 'dummy')]
+W8D4 
+[('Heng Hwee Yee', 'James Ng'), ('Lim Sing Tat', 'Javed Karim'), ('Edward Bingei', 'Ken Cheah Su Yang'), ('Shi He Ping', 'Nikhil Mangla'), ('Teo Yong Song', 'dummy'), ('Fan Yeng Loon', 'Regina Cheong')] 
+W8D5 
+[('Heng Hwee Yee', 'Javed Karim'), ('James Ng', 'Ken Cheah Su Yang'), ('Lim Sing Tat', 'Nikhil Mangla'), ('Edward Bingei', 'dummy'), ('Shi He Ping', 'Regina Cheong'), ('Teo Yong Song', 'Fan Yeng Loon')] 
+W9D1 
+[('Heng Hwee Yee', 'Ken Cheah Su Yang'), ('Javed Karim', 'Nikhil Mangla'), ('James Ng', 'dummy'), ('Lim Sing Tat', 'Regina Cheong'), ('Edward Bingei', 'Fan Yeng Loon'), ('Shi He Ping', 'Teo Yong Song')] 
+W9D2 
+[('Heng Hwee Yee', 'Nikhil Mangla'), ('Ken Cheah Su Yang', 'dummy'), ('Javed Karim', 'Regina Cheong'), ('James Ng', 'Fan Yeng Loon'), ('Lim Sing Tat', 'Teo Yong Song'), ('Edward Bingei', 'Shi He Ping')] 
+W9D3 
+[('Heng Hwee Yee', 'dummy'), ('Nikhil Mangla', 'Regina Cheong'), ('Ken Cheah Su Yang', 'Fan Yeng Loon'), ('Javed Karim', 'Teo Yong Song'), ('James Ng', 'Shi He Ping'), ('Lim Sing Tat', 'Edward Bingei')] 
+W9D4 
+[('Heng Hwee Yee', 'Regina Cheong'), ('dummy', 'Fan Yeng Loon'), ('Nikhil Mangla', 'Teo Yong Song'), ('Ken Cheah Su Yang', 'Shi He Ping'), ('Javed Karim', 'Edward Bingei'), ('James Ng', 'Lim Sing Tat')] 
+W9D5 
+[('Heng Hwee Yee', 'Fan Yeng Loon'), ('Regina Cheong', 'Teo Yong Song'), ('dummy', 'Shi He Ping'), ('Nikhil Mangla', 'Edward Bingei'), ('Ken Cheah Su Yang', 'Lim Sing Tat'), ('Javed Karim', 'James Ng')] 
+W10D1 
+[('Heng Hwee Yee', 'Teo Yong Song'), ('Fan Yeng Loon', 'Shi He Ping'), ('Regina Cheong', 'Edward Bingei'), ('dummy', 'Lim Sing Tat'), ('Nikhil Mangla', 'James Ng'), ('Ken Cheah Su Yang', 'Javed Karim')] 
+W10D2 
+[('Heng Hwee Yee', 'Shi He Ping'), ('Teo Yong Song', 'Edward Bingei'), ('Fan Yeng Loon', 'Lim Sing Tat'), ('Regina Cheong', 'James Ng'), ('dummy', 'Javed Karim'), ('Nikhil Mangla', 'Ken Cheah Su Yang')] 
+W10D3 
+[('Heng Hwee Yee', 'Edward Bingei'), ('Shi He Ping', 'Lim Sing Tat'), ('Teo Yong Song', 'James Ng'), ('Fan Yeng Loon', 'Javed Karim'), ('Regina Cheong', 'Ken Cheah Su Yang'), ('dummy', 'Nikhil Mangla')] 
+W10D4 
+[('Heng Hwee Yee', 'Lim Sing Tat'), ('Edward Bingei', 'James Ng'), ('Shi He Ping', 'Javed Karim'), ('Teo Yong Song', 'Ken Cheah Su Yang'), ('Fan Yeng Loon', 'Nikhil Mangla'), ('Regina Cheong', 'dummy')]
+W10D5 
+[('Heng Hwee Yee', 'James Ng'), ('Lim Sing Tat', 'Javed Karim'), ('Edward Bingei', 'Ken Cheah Su Yang'), ('Shi He Ping', 'Nikhil Mangla'), ('Teo Yong Song', 'dummy'), ('Fan Yeng Loon', 'Regina Cheong')] 
+W11D1 
+[('Heng Hwee Yee', 'Javed Karim'), ('James Ng', 'Ken Cheah Su Yang'), ('Lim Sing Tat', 'Nikhil Mangla'), ('Edward Bingei', 'dummy'), ('Shi He Ping', 'Regina Cheong'), ('Teo Yong Song', 'Fan Yeng Loon')] 
+W11D2 
+[('Heng Hwee Yee', 'Ken Cheah Su Yang'), ('Javed Karim', 'Nikhil Mangla'), ('James Ng', 'dummy'), ('Lim Sing Tat', 'Regina Cheong'), ('Edward Bingei', 'Fan Yeng Loon'), ('Shi He Ping', 'Teo Yong Song')] 
+W11D3 
+[('Heng Hwee Yee', 'Nikhil Mangla'), ('Ken Cheah Su Yang', 'dummy'), ('Javed Karim', 'Regina Cheong'), ('James Ng', 'Fan Yeng Loon'), ('Lim Sing Tat', 'Teo Yong Song'), ('Edward Bingei', 'Shi He Ping')] 
+W11D4 
+[('Heng Hwee Yee', 'dummy'), ('Nikhil Mangla', 'Regina Cheong'), ('Ken Cheah Su Yang', 'Fan Yeng Loon'), ('Javed Karim', 'Teo Yong Song'), ('James Ng', 'Shi He Ping'), ('Lim Sing Tat', 'Edward Bingei')] 
+W11D5 
+[('Heng Hwee Yee', 'Regina Cheong'), ('dummy', 'Fan Yeng Loon'), ('Nikhil Mangla', 'Teo Yong Song'), ('Ken Cheah Su Yang', 'Shi He Ping'), ('Javed Karim', 'Edward Bingei'), ('James Ng', 'Lim Sing Tat')] 
+W12D1 
+[('Heng Hwee Yee', 'Fan Yeng Loon'), ('Regina Cheong', 'Teo Yong Song'), ('dummy', 'Shi He Ping'), ('Nikhil Mangla', 'Edward Bingei'), ('Ken Cheah Su Yang', 'Lim Sing Tat'), ('Javed Karim', 'James Ng')] 
+W12D2 
+[('Heng Hwee Yee', 'Teo Yong Song'), ('Fan Yeng Loon', 'Shi He Ping'), ('Regina Cheong', 'Edward Bingei'), ('dummy', 'Lim Sing Tat'), ('Nikhil Mangla', 'James Ng'), ('Ken Cheah Su Yang', 'Javed Karim')] 
+W12D3 
+[('Heng Hwee Yee', 'Shi He Ping'), ('Teo Yong Song', 'Edward Bingei'), ('Fan Yeng Loon', 'Lim Sing Tat'), ('Regina Cheong', 'James Ng'), ('dummy', 'Javed Karim'), ('Nikhil Mangla', 'Ken Cheah Su Yang')] 
+W12D4 
+[('Heng Hwee Yee', 'Edward Bingei'), ('Shi He Ping', 'Lim Sing Tat'), ('Teo Yong Song', 'James Ng'), ('Fan Yeng Loon', 'Javed Karim'), ('Regina Cheong', 'Ken Cheah Su Yang'), ('dummy', 'Nikhil Mangla')] 
+W12D5 
+[('Heng Hwee Yee', 'Lim Sing Tat'), ('Edward Bingei', 'James Ng'), ('Shi He Ping', 'Javed Karim'), ('Teo Yong Song', 'Ken Cheah Su Yang'), ('Fan Yeng Loon', 'Nikhil Mangla'), ('Regina Cheong', 'dummy')]
