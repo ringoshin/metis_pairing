@@ -81,9 +81,9 @@ def Get_Task_per_Date(wnum, dnum):
     soup = BeautifulSoup(page.read(), 'lxml')
 
     table_rows = soup.find_all('tr')
-    if wnum <= len(table_rows)+1:
+    if wnum < len(table_rows):
         table_cells = table_rows[wnum].find_all('td')
-        if dnum <= len(table_cells)+1:
+        if dnum <= len(table_cells):
             if 'pairs' in table_cells[dnum-1].find('a')['href']:
                 pair_text = table_cells[dnum-1].find('a').text
                 return True, pair_text.replace('•','').replace("Pair:",'').strip()
